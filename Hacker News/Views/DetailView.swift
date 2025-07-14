@@ -17,6 +17,6 @@ struct DetailView: View {
 }
 
 #Preview {
-    DetailView(url: "https://www.yahoo.com")
+    DetailView(url: "https://www.google.com")
 }
 
